@@ -9,7 +9,7 @@ KMUTT
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [bio.vixvify.click](http://bio.vixvify.click/)
 * ✉️  You can contact me at [asnaweeezor@gmail.com](mailto:asnaweeezor@gmail.com)
-* 🧠  I'm learning HTML CSS JS
+* 🧠  I'm learning React.js / Next.js / MongoDB / Node.js
 
 ### Skills
 
